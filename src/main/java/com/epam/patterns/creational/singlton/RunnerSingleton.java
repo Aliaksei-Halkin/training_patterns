@@ -1,11 +1,7 @@
-package com.epam.patterns.creational.runner;
-
-import com.epam.patterns.creational.singlton.Singleton;
-
-import java.util.logging.Logger;
+package com.epam.patterns.creational.singlton;
 
 
-public class RunnerCreationalPatterns {
+public class RunnerSingleton {
 
 
     public static void main(String[] args) {
