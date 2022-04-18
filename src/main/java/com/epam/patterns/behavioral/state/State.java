@@ -1,4 +1,4 @@
-package behavioral.state;
+package com.epam.patterns.behavioral.state;
 
 /**
  * Позволяет объекту изменять свое поведение в зависимости от его состояния.

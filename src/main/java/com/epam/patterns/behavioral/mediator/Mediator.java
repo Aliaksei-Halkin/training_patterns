@@ -1,4 +1,4 @@
-package behavioral.mediator;
+package com.epam.patterns.behavioral.mediator;
 
 /**
  * Предоставляет класс посредника, который обрабатывает все связи между различными классами.

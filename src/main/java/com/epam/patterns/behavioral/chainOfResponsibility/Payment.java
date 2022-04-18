@@ -1,4 +1,4 @@
-package behavioral.chainOfResponsibility;
+package com.epam.patterns.behavioral.chainOfResponsibility;
 
 /**
  * Позволяет избежать жесткой зависимости отправителя запроса от его получателя, при этом запрос может быть обработан несколькими объектами.

@@ -1,4 +1,4 @@
-package behavioral.command;
+package com.epam.patterns.behavioral.command;
 
 /**
  * Позволяет инкапсулировать различные операции в отдельные объекты.

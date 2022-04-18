@@ -1,4 +1,4 @@
-package behavioral.interpreter;
+package com.epam.patterns.behavioral.interpreter;
 
 /**
  * +

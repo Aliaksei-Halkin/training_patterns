@@ -1,4 +1,4 @@
-package behavioral.observer;
+package com.epam.patterns.behavioral.observer;
 
 import java.util.ArrayList;
 import java.util.List;

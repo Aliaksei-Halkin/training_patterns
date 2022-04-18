@@ -1,4 +1,4 @@
-package behavioral.visitor;
+package com.epam.patterns.behavioral.visitor;
 
 /**
  * Используется для упрощения операций над группировками связанных объектов.

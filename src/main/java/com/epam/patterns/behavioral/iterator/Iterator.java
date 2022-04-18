@@ -1,4 +1,4 @@
-package behavioral.iterator;
+package com.epam.patterns.behavioral.iterator;
 
 /**
  * Последовательно осуществляет доступ к элементам объекта коллекции, не зная его основного представления.

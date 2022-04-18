@@ -1,4 +1,4 @@
-package behavioral.memento;
+package com.epam.patterns.behavioral.memento;
 
 import java.util.ArrayList;
 import java.util.List;

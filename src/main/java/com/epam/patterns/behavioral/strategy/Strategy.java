@@ -1,4 +1,4 @@
-package behavioral.strategy;
+package com.epam.patterns.behavioral.strategy;
 
 interface Strategy {
     void download(String file);
